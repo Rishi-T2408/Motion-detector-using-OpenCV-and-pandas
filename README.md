@@ -12,5 +12,7 @@ Four effects are there because-
 The lower 2 effects are giving the change in motion with respect to the 1st frame 
 The upper has an grayscale frame and an coloured vedio or RGB frame
 
-The greyframe is for normal visualisation and the coloured frame for object detection process showing rectangles in objects
-
+The greyframe is for normal visualisation and the coloured frame for object detection process showing rectangles in objects<br>
+Snaps of the webcam capturing motion--<br>
+<p>
+  |<img src="/Result1.png" height=300 width=400>|<img src="Result2.png" height=300 width=400>
